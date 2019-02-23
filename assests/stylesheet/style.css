@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.blue-color{
+    background-color: #20315A;
+    color: white;
+}
+.font-size{
+    font-size: 45px;
+}
